@@ -324,4 +324,7 @@ color: #37517e;
         .galleryrow{
         height: auto;
         }
+         .question .width{
+            width: 100%;
+        }
     }
